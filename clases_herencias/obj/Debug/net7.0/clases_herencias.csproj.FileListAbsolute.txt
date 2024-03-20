@@ -1,0 +1,15 @@
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\bin\Debug\net7.0\clases_herencias.exe
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\bin\Debug\net7.0\clases_herencias.deps.json
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\bin\Debug\net7.0\clases_herencias.runtimeconfig.json
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\bin\Debug\net7.0\clases_herencias.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\bin\Debug\net7.0\clases_herencias.pdb
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.csproj.AssemblyReference.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.AssemblyInfoInputs.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.AssemblyInfo.cs
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.csproj.CoreCompileInputs.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\refint\clases_herencias.dll
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.pdb
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\clases_herencias.genruntimeconfig.cache
+C:\Users\sarac\Documents\UNIVERSIDAD\ARQ DISPOSITIVOS MOVILES\chsarp-from-firts-practice\clases_herencias\obj\Debug\net7.0\ref\clases_herencias.dll
